@@ -1,6 +1,6 @@
 # SG_PR
 
-Code for RAL2021 paper [GRU-LPR: Spatiotemporal Information Fusion based on LiDAR Place Recognition]
+Code for paper [GRU-LPR: Spatiotemporal Information Fusion based on LiDAR Place Recognition]. The paper is under review in RAL2021. 
 
 
 Pipeline overview.
