@@ -1,4 +1,4 @@
-# GRU-LPR
+# SC-LPR
 
 Code for paper [SC-LPR: Spatiotemporal Context based on LiDAR Place Recognition]. The paper is under review in Neurocomputing 2021. 
 
